@@ -9,7 +9,8 @@
         "daniel-cintra/modular": "^0.3.12",
         "daniel-cintra/modular-blog": "^0.3.8",
         "laravel/framework": "^11.9",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
+        "tightenco/ziggy": "^2.3"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
